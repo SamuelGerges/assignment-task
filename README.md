@@ -20,8 +20,8 @@
  
     cp .env.example .env
  
-    
- ### For Migration table in database [Create database name as ....]
+ ### create database    
+ ### For Migration table in database 
  
     php artisan migrate
     php artisan db:seed
