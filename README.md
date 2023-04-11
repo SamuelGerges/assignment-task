@@ -26,10 +26,10 @@
     php artisan migrate
     php artisan db:seed
     
-### Usage 
-  JQuery
-  Dropzone.js
-  Authenticate default for laravel 
+ ### Usage 
+    JQuery
+    Dropzone.js
+    Authenticate default for laravel 
       
     
 ### Server ON ```url: http://127.0.0.1:8000/```
